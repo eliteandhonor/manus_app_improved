@@ -1,0 +1,8 @@
+2025-05-21 20:37:04,673 INFO Navigating to x.com
+2025-05-21 20:37:10,517 INFO Page loaded: https://x.com/
+2025-05-21 20:37:10,517 INFO Clicking login/sign-in button
+2025-05-21 20:37:10,867 INFO Clicking Google sign-in button
+2025-05-21 20:37:40,978 ERROR Error during automation: Page.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("button:has-text(\"Google\")")
+
